@@ -4,4 +4,8 @@
 ## Logo
 
 The Blorum Project's Logo is distributed under the license of Creative Commons Attribution-ShareAlike 4.0 International Public License.
+Copyright all reserved by Winslow S.E.M.
 
+## Open-Source Projects used by the Blorum Project
+
+- Redis
