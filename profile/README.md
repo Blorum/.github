@@ -17,7 +17,7 @@ Blorum is current in development. If you want to join this organization, email t
 
 ## Repos
 
-blorum - local API Server, the kernel of the Blorum project
+blorum - local API Server, the kernel of the Blorum project (Yet private repo, join the Organization if you want to view the code)
 
 bloruf - an front-end implement of the blorum API server.
 
